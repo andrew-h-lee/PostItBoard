@@ -1,0 +1,4 @@
+<%= simple_form_for([@message, @message.comments.build]) ddo |f| %>
+  <%= f.input :content, label: "Comments" %>
+  <%= f.button :submit %>
+<% end %>

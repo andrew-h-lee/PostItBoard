@@ -1,6 +1,8 @@
 <h2><%= @message.title %></h2>
 <p><%= @message.description %></p>
 <!-- Add a Posted on timestamp -->
+<h3>Reply To Message:</h3>
+<%= render "comments/form" %>
 
 <%= link_to "Back", root_path %>
 <%= link_to "Edit", edit_message_path(@message) %>

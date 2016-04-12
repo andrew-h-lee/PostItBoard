@@ -12,13 +12,10 @@ Users are allow to create new messages and respond to messages.
 * Navigation created for the app in the layout file
 * Authentication for User (through Devise)
 * Create nested routes for comments
-* Add create action for comments
-* Create form partial for comments
-* Create comment partial file
-* Add CRUD (create, Read, Update, Destory) functionality to comments
+* Add functionality to comments such as form partial, create action & partial file
 * Add timestamps
-* Allow only the user who created the message or comment to be able to edit/delete
-* Add CSS styles and layout the content
+* Users allowed to create message or comment as well as modify or delete
+* includes CSS styles & content layout
 
 ## Prerequisites / Tools Used
 * Ruby On Rails (v4.0.0+)
