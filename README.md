@@ -22,6 +22,9 @@ Users are allow to create new messages and respond to messages.
 * Bootstrap
 * Sass
 * HTML & CSS
-* `gem install bootstrap-sass`
-* `gem install simple_form`
+
+## Add Gems to `Gemfile` Document
+* `gem bootstrap-sass`
+* `gem simple_form`
 * `gem sass-rails`
+* Run `bundle install` & `rails s`
