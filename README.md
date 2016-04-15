@@ -2,8 +2,8 @@
 
 ## Objective
 
-Post Message Application. The Functionality is similar to a forum as well as supporting Users.
-Users are allow to create new messages and respond to messages.
+Post Message Application. Application has similar functionality as a forum as well as supporting Users.
+Users are allow to create new messages and respond to messages or comment.
 
 ## Accomplished
 * Create Model & Controller for message & comment
