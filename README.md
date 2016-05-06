@@ -2,7 +2,7 @@
 
 ## Objective
 
-A Post Message Application built using Ruby On Rails. 
+A Post Message Application built using Ruby On Rails.
 The Functionality is similar to a forum as well as supporting Users.
 Users are allow to create new messages and respond to messages.
 
@@ -14,8 +14,8 @@ Users are allow to create new messages and respond to messages.
 * Authentication for User (through Devise)
 * Create nested routes for comments
 * Add functionality to comments such as form partial, create action & partial file
-* Add timestamps
-* Users allowed to create message or comment as well as modify or delete
+* Users can add timestamps
+* Users allowed to create message or comment as well as edit or delete
 * includes CSS styles & content layout
 
 ## Prerequisites / Tools Used
