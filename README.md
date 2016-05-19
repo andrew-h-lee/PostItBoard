@@ -20,7 +20,7 @@ Users are allow to create new messages and respond to messages.
 
 ## Prerequisites / Tools Used
 * Ruby On Rails (v4.0.0+)
-* Bootstrap
+* Bootstrap (v3.3.0+)
 * Sass
 * HTML & CSS
 
