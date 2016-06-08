@@ -17,6 +17,7 @@ Users are allow to create new messages and respond to messages.
 * Users can add timestamps
 * Users allowed to create message or comment as well as edit or delete
 * includes CSS styles & content layout
+* test code with rspec
 
 ## Prerequisites / Tools Used
 * Ruby On Rails (v4.0.0+)
