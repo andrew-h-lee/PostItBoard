@@ -17,10 +17,10 @@ Users are allow to create new messages and respond to messages.
 * Users can add timestamps
 * Users allowed to create message or comment as well as edit or delete
 * includes CSS styles & content layout
-* test code with rspec
+* test code with Rspec
 
 ## Prerequisites / Tools Used
-* Ruby On Rails (v4.0.0+)
+* Ruby On Rails (v4.2.0+)
 * Bootstrap (v3.3.0+)
 * Sass
 * HTML & CSS
@@ -29,4 +29,9 @@ Users are allow to create new messages and respond to messages.
 * `gem bootstrap-sass`
 * `gem simple_form`
 * `gem sass-rails`
+* Add `gem rspec-rails` & `gem capybara` under heading `group :development, :test do`
 * Run on terminal `bundle install` & `rails s` to load up server.
+
+## Coming Soon / To-Do List
+* Add Image / File Upload Feature
+* Add file upload Gem
