@@ -6,6 +6,9 @@ A Post Message Application built using Ruby On Rails.
 The Functionality is similar to a forum as well as supporting Users.
 Users are allow to create new messages and respond to messages.
 
+## Screenshots
+[Behance Screenshots](https://www.behance.net/andrew-h-lee)
+
 ## Accomplished
 * Create Model & Controller for message & comment
 * Add functionality to create new messages
