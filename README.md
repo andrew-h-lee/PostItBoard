@@ -7,7 +7,7 @@ The Functionality is similar to a forum as well as supporting Users.
 Users are allow to create new messages and respond to messages.
 
 ## Screenshots
-[Behance Screenshots](https://www.behance.net/andrew-h-lee)
+[Behance Screenshots](https://www.behance.net/gallery/46202601/Post-It-Board)
 
 ## Accomplished
 * Create Model & Controller for message & comment
